@@ -1,4 +1,4 @@
-#Sat Sep 21 12:08:08 BRT 2019
+#Sat Sep 21 12:40:32 BRT 2019
 base.0=/Users/denis.santos/Desktop/git/APP_IMC/Projeto_IMC/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
